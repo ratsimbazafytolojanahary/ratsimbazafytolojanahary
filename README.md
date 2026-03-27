@@ -2,7 +2,7 @@
 <h1 align="center">Hi! 👋 i'm Tolojanahary RATSIMBAZAFY</h1>
 <p align="center">Checkout my portfolio 👉 
 <a href="">not available</a><br><br>
-<img src="https://komarev.com/ghpvc/?username=tokyRT&color=blueviolet&style=flat-square"/><p>
+<img src="https://komarev.com/ghpvc/?username=ratsimbazafytolojanahary&color=blueviolet&style=flat-square"/><p>
 
 <p align="center">
 
