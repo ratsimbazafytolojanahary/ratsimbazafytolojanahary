@@ -1,7 +1,7 @@
 <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/8085dfe9b68c301a5055e6491b6b35ad/fire.gif" alt="header">
-<h1 align="center">Hi! 👋 i'm Tolojanahary RATSIMBAZAFY</h1>
-<p align="center">Checkout my portfolio 👉 
-<a href="">not available</a><br><br>
+<h1 align="center">Thank's for visiting! Hello👋 i'm Tolojanahary RATSIMBAZAFY</h1>
+<p align="center">Checkout my portfolio for more information👉 
+<a href="">not available yet</a><br><br>
 <img src="https://komarev.com/ghpvc/?username=ratsimbazafytolojanahary&color=blueviolet&style=flat-square"/><p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 </p>
 <br>
 
-<div align="right">
-  How to reach me 😉
+<div align="center">
+  <strong>How to reach me 😎</strong>
 <p align="center">
 <a href="mailto:ratsimbazafytolojanahary2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/ratsimbazafy-tolojanahary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
