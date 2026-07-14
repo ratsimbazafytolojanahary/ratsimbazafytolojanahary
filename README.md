@@ -70,11 +70,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ratsimbazafytolojanahary&show_icons=true&theme=transparent&title_color=EE9D2B&icon_color=EE9D2B&text_color=888888&border_color=EE9D2B40&count_private=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratsimbazafytolojanahary&layout=compact&theme=transparent&title_color=EE9D2B&text_color=888888&border_color=EE9D2B40&langs_count=8&cache_seconds=86400" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ratsimbazafytolojanahary&theme=transparent&ring=EE9D2B&fire=BD750F&currStreakLabel=EE9D2B&sideLabels=888888&border=EE9D2B40&dates=888888" />
 </div>
 
